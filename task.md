@@ -10,3 +10,5 @@
 数据库：mysql
 部署：前后端及数据库必须通过`docker compose`一键联调
 
+## UI审美
+请使用组件库（Tailwind,AntD,Shadcn等）保障界面整洁、对齐、美观
