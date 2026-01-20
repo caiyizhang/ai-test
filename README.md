@@ -44,7 +44,7 @@
 
 1. **克隆仓库** (如果已在本地则跳过)
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:caiyizhang/ai-test.git
    cd ai-test
    ```
 
